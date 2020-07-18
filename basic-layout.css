@@ -10,7 +10,7 @@ scroll-behavior: smooth;
 }
 
 .header {
-	background: #F2E205;
+	background: #ef6323;
 	color:white;
 	text-align: center;
 	padding:100px 5px;
@@ -25,12 +25,12 @@ scroll-behavior: smooth;
 }
 
 .header a:hover {
-	background: white;
-	color: #F2E205;
+	background: #f1faee;
+	color: #ef6323;
 }
 
 .main {
-	background: #F2B705;
+	background: #ffa500;
 	padding: 10px 0 40px 0;
 }
 
@@ -45,7 +45,7 @@ main img {
 }
 
 .mokuji {
-	background: white;
+	background: #f1faee;
 	width: 250px;
 	margin: 30px auto;
 	padding: 10px;
@@ -70,7 +70,7 @@ main img {
 }
 
 .contents {
-	background: white;
+	background: #f1faee;
 	width:80%;
 	margin: 0 auto;
 	padding: 10px;
@@ -79,7 +79,7 @@ main img {
 
 .contents p {
 	padding-left: 5px;
-	border-left:solid 10px #F29F05;
+	border-left:solid 10px #a8dadc;
 }
 
 .circle {
@@ -88,7 +88,7 @@ main img {
 }
 
 .circle div {
-	background: white;
+	background: #f1faee;
 	width: 20px;
 	height: 20px;
 	margin-bottom: 10px;
@@ -96,7 +96,7 @@ main img {
 }
 
 .footer {
-	background: #F29F05;
+	background: #457b9d;
 	color:white;
 	text-align: center;
 	padding: 10px 0;
