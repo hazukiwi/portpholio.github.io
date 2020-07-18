@@ -30,7 +30,7 @@ scroll-behavior: smooth;
 }
 
 .main {
-	background: #F2CB05;
+	background: #F2B705;
 	padding: 10px 0 40px 0;
 }
 
@@ -79,7 +79,7 @@ main img {
 
 .contents p {
 	padding-left: 5px;
-	border-left:solid 10px #2da9af;
+	border-left:solid 10px #F29F05;
 }
 
 .circle {
