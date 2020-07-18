@@ -10,7 +10,7 @@ scroll-behavior: smooth;
 }
 
 .header {
-	background: #ffa500;
+	background: #F2E205;
 	color:white;
 	text-align: center;
 	padding:100px 5px;
@@ -26,11 +26,11 @@ scroll-behavior: smooth;
 
 .header a:hover {
 	background: white;
-	color: #ffa500;
+	color: #F2E205;
 }
 
 .main {
-	background: #ffbf7f;
+	background: #F2CB05;
 	padding: 10px 0 40px 0;
 }
 
@@ -96,7 +96,7 @@ main img {
 }
 
 .footer {
-	background: #f76560;
+	background: #F29F05;
 	color:white;
 	text-align: center;
 	padding: 10px 0;
